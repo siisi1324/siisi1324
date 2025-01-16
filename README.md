@@ -1,16 +1,19 @@
-## Hi there 👋
+<background>
 
-<!--
-**siisi1324/siisi1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 효주 CHOI HYOJU 🤗
 
-Here are some ideas to get you started:
+### [Profile](https://github.com/siisi1324)
+이름: 최효주
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 연락처: 010-3006-0394
+  - Github: https://github.com/siisi1324
+
+## 교육과정
+2025.1.7~   SSAFY
+
+## 기술스택
+> HTML
+
+> CSS
+
+> JAVASCRIPT
