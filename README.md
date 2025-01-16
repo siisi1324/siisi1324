@@ -2,6 +2,8 @@
 
 ## 효주 CHOI HYOJU 🤗
 
+> 안녕하세요 
+
 ### [Profile](https://github.com/siisi1324)
 이름: 최효주
 
