@@ -17,9 +17,13 @@
 
 ## 기술스택
 > HTML
+> 
 > CSS
+> 
 > JAVASCRIPT
+> 
 > C
+> 
 > PYTHON
 
 ## 경험 및 경력
