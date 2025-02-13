@@ -11,11 +11,12 @@
   - Github: https://github.com/siisi1324
 
 ## 교육과정
+2019.3 ~ 2025.2 : 경북대학교 경영학부 졸업
 2025.1.7~   SSAFY
 
 ## 기술스택
 > HTML
-
 > CSS
-
 > JAVASCRIPT
+> C
+> PYTHON
